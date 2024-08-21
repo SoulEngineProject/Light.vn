@@ -15,3 +15,7 @@ The Light.vn VIsual Novel Engine
 * [Youtube](https://www.youtube.com/@lightvn_online)
 * [Bilibili](https://space.bilibili.com/492809184)
 
+### What is this Repo
+
+- Currently a place for people to add ideas and suggestions in [Issues](https://github.com/SoulEngineProject/Light.vn/issues)
+  - If you find an idea that you want implemented, please add a comment or emoji - helps to gauge interest and define priority. 
