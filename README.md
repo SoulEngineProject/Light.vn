@@ -12,6 +12,7 @@ The Light.vn VIsual Novel Engine
 * [Discord](https://discord.gg/gzNThtmGH3)
 * [itch.io forum](https://soulengineproject.itch.io/lightvn/community)
 * [X(Twitter)](https://x.com/lightvn_online)
+* [Bluesky](https://bsky.app/profile/lightvn-online.bsky.social)
 * [Youtube](https://www.youtube.com/@lightvn_online)
 * [Bilibili](https://space.bilibili.com/492809184)
 
